@@ -20,7 +20,7 @@
 - ## [Hacking Mobile Platforms](modules/Hacking_Mobile_Platforms.md)
 - ## [IoT and OT Hacking](modules/IoT_and_OT_Hacking.md)
 - ## [Cloud Computing](modules/Cloud_Computing.md)
-- ## [Cryptography](modules/Cryptography.md)
+- ## [Cryptography](https://github.com/VishuGahlyan/CEH_Notes/blob/main/Cloud_Computing.md)
 
 ---
 
